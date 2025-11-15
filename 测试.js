@@ -50,5 +50,3 @@
 // console.log(undefined == undefined); // true
 // console.log('' == 0); // false
 // console.log({} == '[object Object]'); // true
-console.log([] == []); // true
-console.log([] === []); // true
